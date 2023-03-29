@@ -6,6 +6,5 @@ Lista de projetos executados durante os cursos de linguagem e programação do c
 
 <ul>
     <li><a href="https://ns2b.github.io/projetos-cursos/projeto-android" target="_blank" rel="noopener noreferrer">.Projeto//Android</a></li>
-    
     <li><a href="https://ns2b.github.io/projetos-cursos/projeto-cordel" target="_blank" rel="noopener noreferrer">.Projeto//Cordel</a></li>
 </ul>
