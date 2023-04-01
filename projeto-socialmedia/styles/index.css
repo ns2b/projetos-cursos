@@ -11,8 +11,8 @@ body {
   width: 100vw;
 
   background-color: black;
-  background: url(projeto-socialmedia/imagens/fundo-madeira.jpg) no-repeat top
-    center;
+  background: url(../projeto-socialmedia/imagens/fundo-madeira.jpg) no-repeat
+    top center;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -36,8 +36,8 @@ section.redes-sociais img {
 }
 
 section.redes-sociais img:hover {
-    border: 1px solid white;
-    transform: scale(1.2);
+  border: 1px solid white;
+  transform: scale(1.2);
   transition: transform 0.5s, border 0.1s;
 }
 
@@ -49,7 +49,7 @@ section#telefone {
 
   height: 627px;
   width: 311px;
-  background: url(projeto-socialmedia/imagens/frame-iphone.png);
+  background: url(../projeto-socialmedia/imagens/frame-iphone.png);
   background-repeat: no-repeat;
 }
 
